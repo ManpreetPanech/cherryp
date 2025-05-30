@@ -1,2 +1,3 @@
 This is main cherry file.
 No content is here except line 1.
+cherry file is edited in local copy.
